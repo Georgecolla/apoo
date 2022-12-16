@@ -9,7 +9,7 @@
       </ContentProtection>
       <Representation id="0" bandwidth="128000" codecs="mp4a.40.2" mimeType="audio/mp4" audioSamplingRate="48000">
         <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-        <BaseURL>audio_0_fqpwg_128.mp4</BaseURL>
+        <BaseURL>audio_0_fqpwg_1288.mp4</BaseURL>
         <SegmentBase indexRange="988-1043" timescale="48000">
           <Initialization range="0-987"/>
         </SegmentBase>
